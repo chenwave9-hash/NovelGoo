@@ -1,0 +1,7 @@
+{
+  "name": "Novel Goo",
+  "description": "Aplikasi baca novel penghasil saldo E-Wallet tercepat. Baca cerita seru dan dapatkan Rp 25 per menit serta Rp 500 per undangan teman.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
